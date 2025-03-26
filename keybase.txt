@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/aitheric
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aitheric.com
+  * I am aitheric (https://keybase.io/aitheric) on keybase.
+  * I have a public key ASBtOwWTxKBEEbipcFI3k3QVxLK73Rix2ApPjla8ZKwUBQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206d3b0593c4a04411b8a9705237937415c4b2bbdd18b1d80a4f8e56bc64ac14050a",
+      "host": "keybase.io",
+      "kid": "01206d3b0593c4a04411b8a9705237937415c4b2bbdd18b1d80a4f8e56bc64ac14050a",
+      "uid": "df9557216bbbd782938b7852a7c12619",
+      "username": "aitheric"
+    },
+    "merkle_root": {
+      "ctime": 1579586741,
+      "hash": "91fb8410385c5b993e9cd0e4739c3dd5217978d48886584a113e172f6cf8c247cb797276dcacebfb3b78d8e05daa57d58085a9ed2923c4482574f503141cbec0",
+      "hash_meta": "a70d8772d953e2cb3e3501e1c635a83347f1ae610c3fb2119efec29ebd2ca4e3",
+      "seqno": 14305031
+    },
+    "service": {
+      "entropy": "LToMznjgG3X6opuhVoLMroh/",
+      "hostname": "aitheric.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1579586754,
+  "expire_in": 504576000,
+  "prev": "777e3c4fb25a78872f392ca40efda754d6fc5ce3795a11c678b766a786b05e2a",
+  "seqno": 51,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbTsFk8SgRBG4qXBSN5N0FcSyu90YsdgKT45WvGSsFAUKp3BheWxvYWTESpcCM8Qgd348T7JaeIcvOSykDv2nVNb8XON5WhHGeLdmp4awXirEIDQOYOZ8OK2hn3IO1Exmyp63ShM8628/rntfcfZlgvZdAgHCo3NpZ8RAKE2VVYPpZ2V0nrPkZch3FsEC9PFdfPl14ilmQva+qfZNOIJGm5O7a+aZr6+09Lh+DkGvHqWICyq+/JJOVMf6CKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGUzESqze/69WPFgMAB2kVpcGWvs40JOR+QbJCcutpRWo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aitheric
+
+==================================================================
